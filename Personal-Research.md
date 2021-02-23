@@ -80,6 +80,9 @@ Here the art lead will do a lot of exploration of the color for the game, which 
 This is not at all mandatory that you do it at the beginning as you cannot take some random colors and say that this is going to be your palette, you have to do an elaborate process of trial and error to see what colors you like to form the palette of perfect colors.
 
 ### Environment and atmosphere: 
+
+This is where the art director will capture how he wants the settings to be. Depending on the environment of the game, the environment will be different. An example would be the dark environment of Dark Souls or the feeling of comfort of the Genshin Impact.
+
 ### Textures
 ### User interface
 ### Guidelines 
