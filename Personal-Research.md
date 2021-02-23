@@ -14,7 +14,7 @@ An idea that you have to keep in mind when making the art bible is "What does my
 
 The art bible can also serve as a document to attract the attention of investors since you teach them how you want your game to be and they may like that.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ## Some examples
 
@@ -53,16 +53,31 @@ Remember that an art bible serves to convey to artists what aesthetic of play yo
 ### Style:
 The document generally begins with an introduction where a simple paragraph will be written explaining what is on the other pages and will give a general view of the detail of the art that will be better explained later.
 
+<img src="https://64.media.tumblr.com/4fc6f6bfeb640f0259222fe9b2270810/tumblr_oo17gxVc2u1rhq9h5o1_1280.png" width="1280" height="720" /> Firewatch
+
 ### Character art:
 In the player section, it will be explained what idea the player's art lead has. The following points must be taken into consideration:
 * Colors:
 As we will say later, the art lead will have to choose which color palette will be used to define the character, if you want the character to be colorful, it will take bright colors, on the other hand if the art lead wants darker characters or that convey a feeling of empty, it will choose darker colors.
+
+<img src="https://www.clipstudio.net/wp-content/uploads/2019/12/0075_000_en-us_2.jpg" width="640" height="310" /> 
+
 * Shape:
 Another important thing about a character is shape. If a character has more curved shapes, it will be related to something good, it will give the feeling of comfort, on the other hand if it has more pointed shapes it will be related to something bad. It is necessary to try that all the characters have different forms since otherwise they will be related to each other.
+
+<img src="https://www.animatorisland.com/wp-content/uploads/2017/07/aladdin_character_shapes.jpg" width="564" height="377" /> Aladin
+
+
 * Directions:
 This is not so much for the main character itself, but the direction in which it faces will always be very important as it will help the player to predict where it will go just by seeing where it looks.
+
+<img src="https://cdn.dribbble.com/users/1459160/screenshots/4120953/1111_still.gif?compress=1&resize=400x300" width="400" height="300" /> 
+
+
 * Animation:
 There is not much to say here since all of us have had to do this, but it is very important to put the art bible all the characters doing a different animation. Like walking forward, backward, sideways, jumping, attacking, etc.
+
+<img src="https://lpc.opengameart.org/static/lpc-style-guide/_images/female_walkcycle.png" width="576" height="256" /> 
 
 ### Level of Detail
 This section will explain the level of detail that the game will have. Both the size of these and the number of polygons
@@ -94,3 +109,6 @@ This is where the art director will capture how he wants the settings to be. Dep
 * Diagramas
 * Assets completos. 
 * Referencias
+
+
+## Bibliography
