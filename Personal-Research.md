@@ -105,9 +105,17 @@ This is where the art director will capture how he wants the settings to be. Dep
 
 ## How we find it?
 * En concept art
+<img src="https://it-s.com/wp-content/uploads/2020/07/concept-art.jpg" width="347" height="145" /> 
+
 * Con fotografias
+<img src="https://cdn.dribbble.com/users/1459160/screenshots/4120953/1111_still.gif?compress=1&resize=400x300" width="400" height="300" /> 
+
 * Diagramas
+<img src="https://cdn.dribbble.com/users/1459160/screenshots/4120953/1111_still.gif?compress=1&resize=400x300" width="400" height="300" /> 
+
 * Assets completos. 
+<img src="https://cdn.dribbble.com/users/1459160/screenshots/4120953/1111_still.gif?compress=1&resize=400x300" width="400" height="300" /> 
+
 * Referencias
 
 
