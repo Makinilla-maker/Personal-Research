@@ -111,12 +111,19 @@ This is where the art director will capture how he wants the settings to be. Dep
 <img src="https://www.blogdelfotografo.com/wp-content/uploads/2020/04/fotografo-paisajes.jpg" width="347" height="145" /> 
 
 * Diagrams
-<img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-object-diagram-tutorial/Featured_Image.png" width="600" height="380" /> 
+<img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-object-diagram-tutorial/Featured_Image.png"width="347" height="145" /> 
 
 * Complet Assets. 
-<img src="https://i.pinimg.com/originals/5a/d3/7f/5ad37f0b696c77dbe85bfb3b329de46f.jpg" width="736" height="334" /> 
+<img src="https://i.pinimg.com/originals/5a/d3/7f/5ad37f0b696c77dbe85bfb3b329de46f.jpg" width="347" height="145" /> 
 
 * Referencias
 
 
 ## Bibliography
+https://github.com/rogerta97/Project2_Zelda/wiki/ArtBible
+
+https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art/9
+
+https://www.youtube.com/watch?v=vuXxfnCM56A
+
+https://www.youtube.com/watch?v=YaDIbe2GeCY&t=496s
