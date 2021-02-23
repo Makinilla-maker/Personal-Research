@@ -2,13 +2,25 @@
 
 You can use the [editor on GitHub](https://github.com/Makinilla-maker/Personal-Research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-In this page i'll explain what's Art Bible, how's made and why is so usefull for a game development
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this page I'll explain what's Art Bible, how's made and why is so usefull for a game development.
+
+
+### What's Art Bible
+
+The art bible, or art bible, is that reference document where it is indicated and explained how the art that will be represented in the game will be. 
+It is made by the art director, who understands what the final game will look like. 
+
+Usually this is done right after the game design document or GDD (Game design document) and before the asset's production since it will help to facilitate production and lower costs.
+
+If an artist joins the team later, this document will help them keep up with their peers with great ease.
+An idea that you have to keep in mind when making the art bible is "What does my team need to know to contribute to my project?" You can write 25 to 30 pages without answering that question, which makes it completely useless.
+
+The art bible can also serve as a document to attract the attention of investors since you teach them how you want your game to be and they may like that.
 
 ```markdown
 Syntax highlighted code block
