@@ -111,7 +111,7 @@ This is where the art director will capture how he wants the settings to be. Dep
 <img src="https://www.blogdelfotografo.com/wp-content/uploads/2020/04/fotografo-paisajes.jpg" width="347" height="145" /> 
 
 * Diagrams
-<img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-object-diagram-tutorial/Featured_Image.png"width="347" height="145" /> 
+<img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-object-diagram-tutorial/Featured_Image.png" width="347" height="145" /> 
 
 * Complet Assets. 
 <img src="https://i.pinimg.com/originals/5a/d3/7f/5ad37f0b696c77dbe85bfb3b329de46f.jpg" width="347" height="145" /> 
