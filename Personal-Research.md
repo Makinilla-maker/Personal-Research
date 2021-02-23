@@ -1,12 +1,5 @@
 # Art Bible
 
-You can use the [editor on GitHub](https://github.com/Makinilla-maker/Personal-Research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 In this page I'll explain what's Art Bible, how's made and why is so usefull for a game development.
 
 
@@ -46,11 +39,55 @@ Here we have some examples of art bible parts from various games
 
 Here we have a complet Art Bible of the game [The trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf).
 
+## What explains?
 
-<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/art_game_and_loadout.jpg?v=1459382400" width="575" height="431" /> 
-<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/art_game_and_loadout.jpg?v=1459382400" width="575" height="431" /> 
+The art bible has the final task of explaining to the person who reads it how the art director wants us to see the end game. But it will almost always include the following points:
+* How will the game look
+* Help the art team understand the direction of art
+* Explain the chosen artistic decisions
+* Help in communication and marketing
 
+## What we find?
+Remember that an art bible serves to convey to artists what aesthetic of play you want as a final result in the project. It does not have to follow any order or guise. Here I have put the most general but it is possible that in your project something from here you have more or you need something else, remember that this is done by the art director and his criteria.
 
-### Support or Contact
+### Style:
+The document generally begins with an introduction where a simple paragraph will be written explaining what is on the other pages and will give a general view of the detail of the art that will be better explained later.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Character art:
+In the player section, it will be explained what idea the player's art lead has. The following points must be taken into consideration:
+* Colors:
+As we will say later, the art lead will have to choose which color palette will be used to define the character, if you want the character to be colorful, it will take bright colors, on the other hand if the art lead wants darker characters or that convey a feeling of empty, it will choose darker colors.
+* Shape:
+Another important thing about a character is shape. If a character has more curved shapes, it will be related to something good, it will give the feeling of comfort, on the other hand if it has more pointed shapes it will be related to something bad. It is necessary to try that all the characters have different forms since otherwise they will be related to each other.
+* Directions:
+This is not so much for the main character itself, but the direction in which it faces will always be very important as it will help the player to predict where it will go just by seeing where it looks.
+* Animation:
+There is not much to say here since all of us have had to do this, but it is very important to put the art bible all the characters doing a different animation. Like walking forward, backward, sideways, jumping, attacking, etc.
+
+### Level of Detail
+This section will explain the level of detail that the game will have. Both the size of these and the number of polygons
+
+### Camera Position
+
+Here is explained what position the camera will take. 
+If the game is a 3 person platformer game then it will indicate that the camera has to move sideways or if the game is a 1st person, the camera will be hooked to the player's skull, or if it is a 3th person then the camera will go behind of the player. 
+This section also explains the perspective of the camera and how the assets will be seen. 
+For example in a tower defense, the roads will be seen as if they were seen from above but the characters will be seen with an isometric view.
+
+### Paleta de colores
+
+Here the art lead will do a lot of exploration of the color for the game, which will define the tone of the world and the message it wants to communicate through art. Colors play a big role in making your game look sharp. In this section the whole issue of detail, proportions and scales does not apply since we only want to give an idea of ​​the color that things will have or rather, the color palette that things will have.
+This is not at all mandatory that you do it at the beginning as you cannot take some random colors and say that this is going to be your palette, you have to do an elaborate process of trial and error to see what colors you like to form the palette of perfect colors.
+
+### Environment and atmosphere: 
+### Textures
+### User interface
+### Guidelines 
+### References
+
+## How we find it?
+* En concept art
+* Con fotografias
+* Diagramas
+* Assets completos. 
+* Referencias
