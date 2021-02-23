@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Art Bible
 
 You can use the [editor on GitHub](https://github.com/Makinilla-maker/Personal-Research/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+In this page i'll explain what's Art Bible, how's made and why is so usefull for a game development
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
