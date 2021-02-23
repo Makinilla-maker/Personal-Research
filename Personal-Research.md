@@ -100,7 +100,14 @@ This is where the art director will capture how he wants the settings to be. Dep
 
 ### Textures
 ### User interface
+The user interface is what encompasses the entire subject of pause menus, inventory menu, HUD, the user experience. The user interface has the same potential as the gameplay setting. So unless the saturation of it is intentional, you have to try to put the essential in it.
+
+<img src="https://i.pinimg.com/originals/ec/90/96/ec9096543e0507660841e4045ddbc6de.jpg" width="576" height="256" /> 
+
 ### Guidelines 
+The guides are not as artistic a subject as the textures or the characters could be, but it is just as important since it will be how all the limitations of the project are defined. How will the size of the player be, how will the size of the map be, what proportions a weapon must have, naming conventions, tools to be used (software, hardware, ...) how to export and much more.
+
+<img src="https://i.pinimg.com/originals/ec/90/96/ec9096543e0507660841e4045ddbc6de.jpg" width="576" height="256" /> 
 ### References
 
 ## How we find it?
