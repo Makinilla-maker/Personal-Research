@@ -29,22 +29,24 @@ Here we have some examples of art bible parts from various games
 
 ### Dota2
 
-<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/2_art_value_gradient.jpg?v=1459382400" width="500" height="434" /> 
-Characters of Dota2
+<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/2_art_value_gradient.jpg?v=1459382400" width="500" height="434" /> Characters of Dota2
 
-<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/9_art_day_night_context.jpg?v=1459382400" width="501" height="435" />
-The state of the environment depending on the weather
+<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/9_art_day_night_context.jpg?v=1459382400" width="501" height="435" /> The state of the environment depending on the weather
 
-<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/art_game_and_loadout.jpg?v=1459382400" width="575" height="431" /> 
-The attack animation of a character
+<img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/art_game_and_loadout.jpg?v=1459382400" width="575" height="431" /> The attack animation of a character
 
 
 ### Zelda: A Link To The Past
 
-<img src="https://camo.githubusercontent.com/f977dc5ac1e9f82f580fde1055718d31a964532960c7629e5abff365200d784c/687474703a2f2f692e696d6775722e636f6d2f364955454637682e706e67" width="1200" height="400" /> 
-Environment in diferent places
+<img src="https://camo.githubusercontent.com/f977dc5ac1e9f82f580fde1055718d31a964532960c7629e5abff365200d784c/687474703a2f2f692e696d6775722e636f6d2f364955454637682e706e67" width="1200" height="400" /> Environment in diferent places
 
-<img src="https://camo.githubusercontent.com/b738fac784ee1fc7d14f69dc92fd27c94562cf20dcd8826bda9aa2edf926ac95/687474703a2f2f692e696d6775722e636f6d2f6330586c5853712e706e67" width="569" height="146" /> 
+<img src="https://camo.githubusercontent.com/b738fac784ee1fc7d14f69dc92fd27c94562cf20dcd8826bda9aa2edf926ac95/687474703a2f2f692e696d6775722e636f6d2f6330586c5853712e706e67" width="569" height="146" /> Guidelines
+
+### The Trip
+
+Here we have a complet Art Bible of the game [The trip](http://www.roguearbiter.com/port/theTrip/The%20Trip%20-%20Art%20Bible.pdf).
+
+
 <img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/art_game_and_loadout.jpg?v=1459382400" width="575" height="431" /> 
 <img src="http://cdn.dota2.com/apps/dota2/images/workshop/guidelines/character_art/art_game_and_loadout.jpg?v=1459382400" width="575" height="431" /> 
 
