@@ -82,12 +82,19 @@ There is not much to say here since all of us have had to do this, but it is ver
 ### Level of Detail
 This section will explain the level of detail that the game will have. Both the size of these and the number of polygons
 
+<img src="https://i.ytimg.com/vi/IzlU_xvTK3Y/hqdefault.jpg" width="480" height="360" /> 
+
 ### Camera Position
 
 Here is explained what position the camera will take. 
 If the game is a 3 person platformer game then it will indicate that the camera has to move sideways or if the game is a 1st person, the camera will be hooked to the player's skull, or if it is a 3th person then the camera will go behind of the player. 
 This section also explains the perspective of the camera and how the assets will be seen. 
 For example in a tower defense, the roads will be seen as if they were seen from above but the characters will be seen with an isometric view.
+
+<img src="https://i.imgur.com/smTjNLS.jpg" width="576" height="256" /> First person
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Number-person_views.png/220px-Number-person_views.png" width="220" height="179" />
+
 
 ### Paleta de colores
 
@@ -107,7 +114,7 @@ The user interface is what encompasses the entire subject of pause menus, invent
 ### Guidelines 
 The guides are not as artistic a subject as the textures or the characters could be, but it is just as important since it will be how all the limitations of the project are defined. How will the size of the player be, how will the size of the map be, what proportions a weapon must have, naming conventions, tools to be used (software, hardware, ...) how to export and much more.
 
-<img src="https://i.pinimg.com/originals/ec/90/96/ec9096543e0507660841e4045ddbc6de.jpg" width="576" height="256" /> 
+
 ### References
 
 ## How we find it?
